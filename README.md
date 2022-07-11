@@ -1,1 +1,2 @@
-# week2module.io
+# Newcoursera
+Coursera week 2 assignment
